@@ -1,2 +1,1 @@
-# Healthify
-Machine Learning algorithms to forecast illnesses based on information supplied by users
+Healthify- Predicts users diseases based on symptoms
