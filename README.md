@@ -1,1 +1,1 @@
-Healthify- Predicts users diseases based on symptoms
+Healthify- Predicts users diseases based on the symptoms
